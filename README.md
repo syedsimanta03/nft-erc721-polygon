@@ -33,12 +33,12 @@
 
 ## commands
 
-yarn deploy --network truffle
-yarn verify 0xf8bf55a6bf9d3149984994c4430
-yarn whitelist-open --network truffle
-yarn whitelist-close --network truffle
-yarn presale-open --network truffle
-yarn reveal --network truffle
+yarn deploy --network truffle \
+yarn verify 0xf8bf55a6bf9d3149984994c4430 \
+yarn whitelist-open --network truffle \
+yarn whitelist-close --network truffle \
+yarn presale-open --network truffle \
+yarn reveal --network truffle 
 
 ---
 
